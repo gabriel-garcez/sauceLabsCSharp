@@ -1,0 +1,9 @@
+C:\Users\60003375\source\repos\SauceLabs\SauceLabs\obj\Debug\netcoreapp3.1\SauceLabs.csprojAssemblyReference.cache
+C:\Users\60003375\source\repos\SauceLabs\SauceLabs\obj\Debug\netcoreapp3.1\SauceLabs.AssemblyInfoInputs.cache
+C:\Users\60003375\source\repos\SauceLabs\SauceLabs\obj\Debug\netcoreapp3.1\SauceLabs.AssemblyInfo.cs
+C:\Users\60003375\source\repos\SauceLabs\SauceLabs\bin\Debug\netcoreapp3.1\SauceLabs.deps.json
+C:\Users\60003375\source\repos\SauceLabs\SauceLabs\bin\Debug\netcoreapp3.1\SauceLabs.dll
+C:\Users\60003375\source\repos\SauceLabs\SauceLabs\bin\Debug\netcoreapp3.1\SauceLabs.pdb
+C:\Users\60003375\source\repos\SauceLabs\SauceLabs\obj\Debug\netcoreapp3.1\SauceLabs.csproj.CoreCompileInputs.cache
+C:\Users\60003375\source\repos\SauceLabs\SauceLabs\obj\Debug\netcoreapp3.1\SauceLabs.dll
+C:\Users\60003375\source\repos\SauceLabs\SauceLabs\obj\Debug\netcoreapp3.1\SauceLabs.pdb
